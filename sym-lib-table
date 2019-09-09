@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name QTH-060-01-X-D-A)(type Legacy)(uri ${KIPRJMOD}/kicad_libs/snapeda/snapeda-symbols/QTH-060-01-X-D-A.lib)(options "")(descr ""))
+  (lib (name ADV7281A-M)(type Legacy)(uri ${KIPRJMOD}/kicad_libs/utra_librarian/ADV7281A-M.lib)(options "")(descr ""))
 )
