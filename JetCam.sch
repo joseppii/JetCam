@@ -33,7 +33,13 @@ $EndComp
 $Sheet
 S 1700 1650 1300 2000
 U 5D773160
-F0 "decoder" 50
+F0 "decoder_1" 50
+F1 "decoder.sch" 50
+$EndSheet
+$Sheet
+S 1700 4050 1300 2000
+U 5D785B6A
+F0 "decoder_2" 50
 F1 "decoder.sch" 50
 $EndSheet
 $EndSCHEMATC
